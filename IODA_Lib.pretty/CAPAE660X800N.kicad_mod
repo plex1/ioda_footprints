@@ -1,6 +1,6 @@
-(module CAPAE660X800N (layer F.Cu) (tedit 5DADEA40)
+(module CAPAE660X800N (layer F.Cu) (tedit 5DC43799)
   (attr smd)
-  (fp_text reference CAPAE660X800N (at -0.86019 -4.63608) (layer F.SilkS)
+  (fp_text reference CAPAE660X800N (at -0.86019 -4.63608) (layer F.SilkS) hide
     (effects (font (size 1.00024 1.00024) (thickness 0.05)))
   )
   (fp_text value VAL** (at -0.22519 4.66917) (layer F.SilkS)

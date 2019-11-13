@@ -1,9 +1,9 @@
-(module SOD2513X114N (layer F.Cu) (tedit 5DBC090F)
+(module SOD2513X114N (layer F.Cu) (tedit 5DC437C7)
   (attr smd)
-  (fp_text reference SOD2513X114N (at 0 -1.905) (layer F.SilkS)
+  (fp_text reference SOD2513X114N (at 0 -1.905) (layer F.SilkS) hide
     (effects (font (size 0.5 0.5) (thickness 0.05)))
   )
-  (fp_text value VAL** (at 0.635 1.905) (layer F.SilkS)
+  (fp_text value REF** (at 0.635 1.905) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.05)))
   )
   (fp_line (start -0.95 -0.73) (end 0.95 -0.73) (layer Eco2.User) (width 0.127))
